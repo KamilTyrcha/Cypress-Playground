@@ -1,0 +1,23 @@
+{
+  "name": "cypress-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamilTyrcha/Cypress-Playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KamilTyrcha/Cypress-Playground/issues"
+  },
+  "homepage": "https://github.com/KamilTyrcha/Cypress-Playground#readme",
+  "devDependencies": {
+    "cypress": "^6.8.0"
+  },
+  "dependencies": {},
+  "description": ""
+}
