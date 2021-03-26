@@ -16,7 +16,8 @@
   },
   "homepage": "https://github.com/KamilTyrcha/Cypress-Playground#readme",
   "devDependencies": {
-    "cypress": "^6.8.0"
+    "cypress": "^6.8.0",
+    "cypress-react-selector": "^2.3.6"
   },
   "dependencies": {},
   "description": ""
